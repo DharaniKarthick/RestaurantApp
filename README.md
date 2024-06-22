@@ -10,9 +10,6 @@ RestaurantApp is a web application built with MongoDB, Express, React, and Node.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -43,12 +40,12 @@ Make sure you have Docker installed on your machine. You can download and instal
 1. Clone the repo
 2. Replace the MongoDB credentials
 
-## Run
-# Backend
+### running-the-application
+## Backend
 To run locally, in server>src> node server.js
-# Frontend
+## Frontend
 To run locally, in client>npm start
-# Docker
+## Docker
 Run the docker-compose.yml file using
 docker-compose up --build
 
